@@ -1,4 +1,5 @@
-#						     [ Start the History  - Page-10 ]
+#						 [ Start - Page - 10 ]
+
 `[?]:` Hello! What can I do for you?...
 
 `Lya:` Hello, I'm here to see Ms. Moraltet?
@@ -35,4 +36,4 @@
 `Lya:` Great!...
 
 
-#					            [  Finish the Page - 10  ]
+#					            [  Finish Page - 10  ]
