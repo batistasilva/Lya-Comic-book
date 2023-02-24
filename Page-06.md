@@ -1,7 +1,9 @@
 #						     [ Start - Page - 06 ]
 
 `Mom:` Break a leg tomorrow!...
+
 `Mom:` I'm so proud of you!...
+
 `Mom:` An Intern at Ms. Moraltet's Practice!
 
 `Lya:` You know: Whatever Lya wants...
