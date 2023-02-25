@@ -1,6 +1,6 @@
 ### 					     [ The Start - Page - 04 ]
 
-<img src="images/mom.png" with="50" height="50">
+<img src="images/Mom.png" with="50" height="50">
 
 `Mom:` Lya? Which one do you want: blue or green?
 
@@ -26,7 +26,7 @@
 
 `Lya:` Hey, speak of the devil!...
 
-<img src="images/mom.png" with="50" height="50">
+<img src="images/Mom.png" with="50" height="50">
 
 `Mom:` Hang on, I'll let him in...
 
