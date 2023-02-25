@@ -1,28 +1,41 @@
 ### 					     [ The Start - Page - 04 ]
 
-`👩‍🏫Mom:` Lya? Which one do you want: blue or green?
- 
-`👩‍🏫Mom:` Lya?
+<img src="images/mom.png" with="50" height="50">
 
-`👩‍🏫Mom:` Lya, are you listening?
+`Mom:` Lya? Which one do you want: blue or green?
 
-`👩‍🏫Mom:`  I'll pack both.
+`Mom:` Lya?
 
-`🕵️‍♀️Lya:` Huh? Oh, Year! Perfect!...
+`Mom:` Lya, are you listening?
 
-`👩‍🏫Mom:` Will you be ok at Antoines?...
+`Mom:`  I'll pack both.
 
-`🕵️‍♀️Lya:` Of course! stop worrying!...
+<img src="images/Lya-01.png" with="50" height="50">
+
+`Lya:` Huh? Oh, Year! Perfect!...
+
+<img src="images/Lya-01.png" with="50" height="50">
+
+`Mom:` Will you be ok at Antoines?...
+
+<img src="images/Lya-01.png" with="50" height="50">
+
+`Lya:` Of course! stop worrying!...
 
 `[🔔]:` Ding! Dong!  
 
-`🕵️‍♀️Lya:` Hey, speak of the devil!...
+`Lya:` Hey, speak of the devil!...
 
-`👩‍🏫Mom:` Hang on, I'll let him in...
+<img src="images/mom.png" with="50" height="50">
 
-`🕵️‍♀️Lya:` Thanks, mom...
+`Mom:` Hang on, I'll let him in...
 
-`🕵️‍♀️Lya:` Id better not forget...
+<img src="images/Lya-01.png" with="50" height="50">
+
+`Lya:` Thanks, mom...
+
+`Lya:` Id better not forget...
+
 
 ###			             [ Finish Page - 04 ]
 
