@@ -1,40 +1,40 @@
 ### 					     [ The Start - Page - 04 ]
 
-<img src="images/Mom.png" with="50" height="50">
+![](images/Mom.png)
 
-`Mom:` Lya? Which one do you want: blue or green?
+Lya? Which one do you want: blue or green?
 
-`Mom:` Lya?
+Lya?
 
-`Mom:` Lya, are you listening?
+Lya, are you listening?
 
-`Mom:`  I'll pack both.
+I'll pack both.
 
-<img src="images/Lya-01.png" with="50" height="50">
+![](images/Lya-01.png)
 
-`Lya:` Huh? Oh, Year! Perfect!...
+Huh? Oh, Year! Perfect!...
 
-<img src="images/Lya-01.png" with="50" height="50">
+![](images/Lya-01.png)
 
-`Mom:` Will you be ok at Antoines?...
+Will you be ok at Antoines?...
 
-<img src="images/Lya-01.png" with="50" height="50">
+![](images/Lya-01.png)
 
-`Lya:` Of course! stop worrying!...
+Of course! stop worrying!...
 
 `[🔔]:` Ding! Dong!  
 
-`Lya:` Hey, speak of the devil!...
+Hey, speak of the devil!...
 
-<img src="images/Mom.png" with="50" height="50">
+![](images/Mom.png)
 
-`Mom:` Hang on, I'll let him in...
+Hang on, I'll let him in...
 
-<img src="images/Lya-01.png" with="50" height="50">
+![](images/Lya-01.png)
 
-`Lya:` Thanks, mom...
+Thanks, mom...
 
-`Lya:` Id better not forget...
+Id better not forget...
 
 
 ###			             [ Finish Page - 04 ]
