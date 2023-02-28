@@ -29,7 +29,7 @@ That's me!
 
 Ms. Moraltet's in a meeting. Have a seat in the waiting room.
 
-![](images/adele-1.png)
+![](images/adele-1.png) ![](images/Lya-01.png)
 
 Do you need help?...
 
@@ -37,24 +37,22 @@ Do you need help?...
 
 No, Thanks!... I'm fine...
 
-![](images/Mss.Moraltet-1.png)
+![](images/Mss.Moraltet-1.png)    ![](images/uknown-image-2.png)
 
 I'll take care of everything... You can tell the board not to worry.
+
+Not at all!. I'll let you sort out the details with Adéle. Goodbye!
 
 ![](images/uknown-image-2.png)
 
 Thank you.
 
-![](images/Mss.Moraltet-1.png)
+![](images/adele-1.png)  ![](images/Mss.Moraltet-1.png) 
 
-Not at all!. I'll let you sort out the details with Adéle. Goodbye!
-
-![](images/adele-1.png)
-
-Ma'am, Miss Berton is here...
+Ma'am, Miss Berton is here...  
 And so is your next client!...
 
-![](images/Lya-01.png)
+![](images/Lya-01.png) ![](images/Mss.Moraltet-1.png)
 
 Take Your Time!...
 
