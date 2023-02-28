@@ -1,39 +1,70 @@
 #						 [ Start - Page - 10 ]
 
-`[?]:` Hello! What can I do for you?...
+![](images/unknown-1.png)
 
-`Lya:` Hello, I'm here to see Ms. Moraltet?
+Hello! What can I do for you?...
 
-`[?]:` Do you have an Appointment?
+![](images/Lya-01.png)
 
-`Lya:` My name's Lya Berton.
-`Lya:` I'm the new intern.
+Hello, I'm here to see Ms. Moraltet?
 
-`[?]:` Oh, right! You came in last week to sign your contract!...
+![](images/unknown-1.png)
 
-`Lya:` That's me!
+Do you have an Appointment?
 
-`[?]:` Ms. Moraltet's in a meeting. Have a seat in the waiting room.
+![](images/Lya-01.png)
 
-`Adéle:` Do you need help?...
+My name's Lya Berton.
+I'm the new intern.
 
-`Lya:` No, Thanks!... I'm fine...
+![](images/unknown-1.png)
 
-`Ms. Moraltet:` I'll take care of everything... You can tell the board not to worry.
+Oh, right! You came in last week to sign your contract!...
+
+![](images/Lya-01.png)
+
+That's me!
+
+![](images/unknown-1.png)
+
+Ms. Moraltet's in a meeting. Have a seat in the waiting room.
+
+![](images/adele-1.png)
+
+Do you need help?...
+
+![](images/Lya-01.png)
+
+No, Thanks!... I'm fine...
+
+![](images/Mss.Moraltet-1.png)
+
+I'll take care of everything... You can tell the board not to worry.
 
 `[?]:` Thank you.
 
-`Ms. Moraltet:` Not at all!. I'll let you sort out the details with Adéle. Goodbye!
+![](images/Mss.Moraltet-1.png)
 
-`Adéle:` Ma'am, Miss Berton is here...
-`Adéle:` And so is your next client!...
+Not at all!. I'll let you sort out the details with Adéle. Goodbye!
 
-`Lya:` Take Your Time!...
+![](images/adele-1.png)
 
-`Ms. Moraltet:` Hello, Miss Berton! A quick Meeting and then I'm all yours.
-`Ms. Moraltet:` Adéle will give you a tour and show you your office.
+Ma'am, Miss Berton is here...
+And so is your next client!...
 
-`Lya:` Great!...
+![](images/Lya-01.png)
+
+Take Your Time!...
+
+![](images/Mss.Moraltet-1.png)
+
+Hello, Miss Berton! A quick Meeting and then I'm all yours.
+
+Adéle will give you a tour and show you your office.
+
+![](images/Lya-01.png)
+
+Great!...
 
 
 #					            [  Finish Page - 10  ]
