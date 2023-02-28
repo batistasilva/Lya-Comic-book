@@ -23,7 +23,7 @@ That's Muriel... Busy as usual!            ![](images/Muriel-90x90.png)
 
 Hello Muriel!                              ![](images/Muriel-90x90.png)
 
-![](images/adele-1.png)
+![](images/adele-1.png) ![](images/Lya-01.png)
 
 So..
 
