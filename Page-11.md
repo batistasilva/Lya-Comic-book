@@ -1,24 +1,39 @@
 #						     [ Start - Page - 11 ]
 
-`Ms. Moraltet's:` Adéle?...
 
-`Adèle:` Right away, Ma'am!
-`Adèle:` Follow me?
+![](images/Mss.Moraltet-1.png)
 
-`Lya:` All right!
+Adéle?...
 
-`Adèle:` Welcome to the Law Firm! 
-`Adèle:` That's Muriel... Busy as usual!
+![](images/adele-1.png)
 
-`Lya:` Hello Muriel!
+Right away, Ma'am!
+Follow me?
 
-`Adèle:` So..
-`Adèle:` That's Mr. Camar's Office...
-`Adèle:` Mr. Larcher's in here...
-`Adèle:` His Assistant in there...
-`Adèle:` That's Ms. Moraltet's Office...
-`Adèle:` And this is Mr. De Villegan's!..
-`Adèle:` Across from the archives..
-`Adèle:` And this one's yours!
+![](images/Lya-01.png)
+
+All right!
+
+![](images/adele-1.png)
+
+Welcome to the Law Firm! 
+That's Muriel... Busy as usual!
+
+![](images/Lya-01.png)
+
+Hello Muriel!
+
+![](images/adele-01.png)
+
+So..
+That's Mr. Camar's Office...
+Mr. Larcher's in here...
+His Assistant in there...
+That's Ms. Moraltet's Office...
+And this is Mr. De Villegan's!..
+Across from the archives..
+And this one's yours!
+
+
 
 #					     [ Finish Page - 11 ] 
