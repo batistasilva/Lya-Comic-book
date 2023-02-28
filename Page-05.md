@@ -1,36 +1,55 @@
 #						     [ Start - Page - 05 ]
-						     
-`Dad:` Hi, Lya! ready to take the Plunge `[plənj]`?
 
-`Lya:` I was born ready!...
+![](images/Dad.png)						     
+Hi, Lya! ready to take the Plunge `[plənj]`?
 
-`Mom:` Do you need sheets, too?
+![](images/Lya-01.png)
 
-`Lya:` Nope! I've got everything I need.
+I was born ready!...
 
-`Lya:` It's not like I'm going to Australia, mom. I'll just be downtown...
+![](images/Mom.png)
 
-`Lya:` It'll be so much easier for my internship.
+Do you need sheets, too?
 
-`Mom:` I know. But it's the first time you'll be away from home since...
+![](images/Lya-01.png)
 
-`Lya:` My accident...
+Nope! I've got everything I need.
 
-`Lya:` I know, mom...
+It's not like I'm going to Australia, mom. I'll just be downtown...
 
-`Dad:` Relax! it's all gonna be fine.
+It'll be so much easier for my internship.
 
-`Dad:` Uh... You remember how small my place is?...
+![](images/Mom.png)
 
-`Lya:` I packed only...
+I know. But it's the first time you'll be away from home since...
 
-`Lya:` ...The bare essentials!...
+![](images/Lya-01.png)
 
-`Dad:` Ready to go?
+My accident...
 
-`Lya:` Yeah!....
+I know, mom...
 
-`Lya:` Actually.. There's that one, too...
+![](images/Dad.png)
+
+Relax! it's all gonna be fine.
+
+Uh... You remember how small my place is?...
+
+![](images/Lya-01.png)
+
+I packed only...
+
+...The bare essentials!...
+
+![](images/Dad.png)
+
+Ready to go?
+
+![](images/Lya-01.png)
+
+Yeah!....
+
+Actually.. There's that one, too...
 
 #			              [ Finish the Page - 05 ] 
 				
