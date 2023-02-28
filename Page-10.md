@@ -41,7 +41,9 @@ No, Thanks!... I'm fine...
 
 I'll take care of everything... You can tell the board not to worry.
 
-`[?]:` Thank you.
+![](images/uknown-image-2.png)
+
+Thank you.
 
 ![](images/Mss.Moraltet-1.png)
 
