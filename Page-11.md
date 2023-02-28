@@ -23,7 +23,7 @@ That's Muriel... Busy as usual!
 
 Hello Muriel!
 
-![](images/adele-01.png)
+![](images/adele-1.png)
 
 So..
 
@@ -40,6 +40,7 @@ And this is Mr. De Villegan's!..
 Across from the archives..
 
 And this one's yours!
+
 
 
 
