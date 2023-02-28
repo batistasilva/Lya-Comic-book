@@ -17,11 +17,11 @@ All right!
 ![](images/adele-1.png)
 
 Welcome to the Law Firm! 
-That's Muriel... Busy as usual!
+That's Muriel... Busy as usual!            ![](images/Muriel-90x90.png)
 
 ![](images/Lya-01.png)
 
-Hello Muriel!
+Hello Muriel!                              ![](images/Muriel-90x90.png)
 
 ![](images/adele-1.png)
 
