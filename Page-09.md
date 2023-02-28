@@ -3,12 +3,15 @@
 ![](images/Dad.png) ![](images/Lya-01.png)
 
 What are we celebrating?
+
 Our new life together?...
 
 ![](images/Lya-01.png) ![](images/Dad.png)
 
 Ha ha! You won't regret it...
+
 We're celebrating my new internship...
+
 In the same office as de Villegan...!
 
 ![](images/Dad.png) ![](images/Lya-01.png)
@@ -22,10 +25,10 @@ That'll do the trick!...
 ![](images/Dad.png) ![](images/Lya-01.png)
 
 I hope so, 'cause you know...
+
 ...I'm just a student, m'lady!...
 
 ![](images/Lya-01.png)  ![](images/Dad.png)
-
 
 Of course. I forgive you!...
 
