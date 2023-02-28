@@ -26,12 +26,19 @@ Hello Muriel!
 ![](images/adele-01.png)
 
 So..
+
 That's Mr. Camar's Office...
+
 Mr. Larcher's in here...
+
 His Assistant in there...
+
 That's Ms. Moraltet's Office...
+
 And this is Mr. De Villegan's!..
+
 Across from the archives..
+
 And this one's yours!
 
 
