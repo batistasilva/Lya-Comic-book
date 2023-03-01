@@ -1,4 +1,9 @@
 #						     [ Start - Page - 07 ]
+<br>
+
+<br>
+
+---
 
 ![](images/Dad.png)  ![](images/Lya-01.png)
 
@@ -25,4 +30,7 @@ And if you can't find anything?
 Oh, I will...
 Count on it, I will!.
 
-#					       [  Finish Page - 07  ] 
+###			             [ Finish Page - 07 ]
+
+---
+[Go to next Page](https://github.com/batistasilva/Lya-Comic-book/blob/main/Page-08.md)
