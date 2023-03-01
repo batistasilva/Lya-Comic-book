@@ -1,4 +1,6 @@
 #						     [ Start - Page - 05 ]
+<br>
+<br>
 
 
 ![](images/Dad.png)	![](images/Lya-01.png)			
@@ -58,7 +60,14 @@ Yeah!....
 Actually.. There's that one, too...
 
 
-#			              [ Finish the Page - 05 ] 
+<br>
+<br>
+<br>
+
+###			             [ Finish Page - 05 ]
+
+---
+[Go to next Page](https://github.com/batistasilva/Lya-Comic-book/blob/main/Page-06.md)
 				
 
 

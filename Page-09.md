@@ -1,4 +1,7 @@
 #						     [ Start - Page - 09 ]
+<br>
+<br>
+
 
 ![](images/Dad.png) ![](images/Lya-01.png)
 
@@ -57,4 +60,11 @@ I'm not joking, Lya!...
 Promise!...
 
 
-#					        [Finish Page - 09  ] 
+<br>
+<br>
+<br>
+
+###			             [ Finish Page - 09 ]
+
+---
+[Go to next Page](https://github.com/batistasilva/Lya-Comic-book/blob/main/Page-10.md)

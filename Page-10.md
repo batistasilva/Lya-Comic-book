@@ -1,5 +1,9 @@
 #						 [ Start - Page - 10 ]
 
+<br>
+<br>
+
+
 ![](images/unknown-1.png)
 
 Hello! What can I do for you?...
@@ -67,4 +71,11 @@ Adéle will give you a tour and show you your office.
 Great!...
 
 
-#					            [  Finish Page - 10  ]
+<br>
+<br>
+<br>
+
+###			             [ Finish Page - 10 ]
+
+---
+[Go to next Page](https://github.com/batistasilva/Lya-Comic-book/blob/main/Page-11.md)

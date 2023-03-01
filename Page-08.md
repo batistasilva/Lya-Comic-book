@@ -1,4 +1,7 @@
 #						     [ Start - Page - 08 ]
+<br>
+<br>
+
 
 ![](images/Dad.png)  ![](images/Lya-01.png)
 
@@ -47,4 +50,11 @@ What do you wanna drink?
 Champagne!...
 
 
-#   				         [ Finish the Page - 08  ] 
+<br>
+<br>
+<br>
+
+###			             [ Finish Page - 08 ]
+
+---
+[Go to next Page](https://github.com/batistasilva/Lya-Comic-book/blob/main/Page-09.md)
