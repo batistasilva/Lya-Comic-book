@@ -10,7 +10,7 @@
 <br>
 <br>
 
-###			             [Stating in Page  - 04 ]
+###			             [Starting in Page  - 04 ]
 
 ---
 [Start here...](https://github.com/batistasilva/Lya-Comic-book/blob/main/Start%20-%20Page-04.md)
