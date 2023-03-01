@@ -1,4 +1,6 @@
 ### 					     [ The Start - Page - 04 ]
+<br>
+<br>
 
 ![](images/Mom.png)  ![](images/Lya-01.png)
 
@@ -42,8 +44,18 @@ Thanks, mom...
 
 Id better not forget...
 
+<br>
+<br>
+<br>
 
 ###			             [ Finish Page - 04 ]
+
+---
+[Go to next Page](https://github.com/batistasilva/Lya-Comic-book/blob/main/Page-05.md)
+
+---
+
+
 
 
 
