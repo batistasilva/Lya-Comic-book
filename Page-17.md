@@ -3,7 +3,7 @@
 
 ---
 
-![Adéle](images/adele-1.png) ![Lya](images/lya-01.png)
+![Adéle](images/adele-1.png) ![Lya](images/Lya-01.png)
 
 
   

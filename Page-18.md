@@ -1,9 +1,9 @@
-#						     [ Start Page - 19 ]
+#						     [ Start Page - 18 ]
 <br>
 
 ---
 
-![Adéle](images/adele-1.png) ![Lya](images/lya-01.png)
+![Adéle](images/adele-1.png) ![Lya](images/Lya-01.png)
 
 
   
@@ -14,7 +14,7 @@
 <br>
 <br>
 
-###			             [ Finish Page - 19 ]
+###			             [ Finish Page - 18 ]
 
 ---
 
