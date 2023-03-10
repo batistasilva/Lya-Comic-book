@@ -3,7 +3,7 @@
 
 ---
 
-![Martin](images/Martin-avatar-90x90.png) ![Clement](images/Clément-90x90.png)
+![Martin](images/Martin-avatar-90x90.png) ![Clément](images/Clément-90x90.png)
 
 What is this supposed to be?!...
 
@@ -15,7 +15,7 @@ I can't believe it!...
 
 Do I really have to do it myself?....
 
-[Clement](images/Clément-90x90.png)  ![Martin](images/Martin-avatar-90x90.png)
+![Clément](images/Clément-90x90.png)  ![Martin](images/Martin-avatar-90x90.png)
 
 So sorry, sir!...
 
