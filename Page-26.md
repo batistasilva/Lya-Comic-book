@@ -3,16 +3,32 @@
 
 ---
 
-Under construction...
+![Antoine](images/Antoine-avatar-90x90.png)  ![Antoine](images/Antoine-avatar-90x90.png)  
+
+Uhh... Where do I even start?...
+
+What is this filing system?...
+
+Ok!...
+
+That's what I thought... DV 015-42?
+
+I'm in the right spot...
+
+52... 61... 68... 71... 74... 75... Getting closer!...
+
+Bingo!...
+
+No, I want 2015/78 DV!...
+
+But after this, It's number 79!...
+
+Darn!...
 
 
-![Antoine](images/Antoine-avatar-90x90.png)  ![Lya](images/Lya-01.png)
 
 
 
-  
-   
-  
 --- 
 <br>
 <br>
