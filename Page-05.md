@@ -1,7 +1,7 @@
 #						     [ Start - Page - 05 ]
 <br>
 <br>
-
+---
 
 ![](images/Dad.png)	![](images/Lya-01.png)			
 		     
@@ -59,6 +59,7 @@ Yeah!....
 
 Actually.. There's that one, too...
 
+---
 
 <br>
 <br>
