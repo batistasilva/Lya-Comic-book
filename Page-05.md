@@ -53,7 +53,7 @@ Ready to go?
 
 ![](images/Lya-01.png)  ![](images/Dad.png)  
 
-Yeah!....
+Yeah!...
 
 ![](images/Lya-01.png)  ![](images/Dad.png)  
 
